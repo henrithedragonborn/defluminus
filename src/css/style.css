@@ -98,7 +98,7 @@ ul {
     position: relative;
     width: 100%;
     font-size: 1.8em;
-    padding: 1.3rem 3%;
+    padding: 1.3rem 0%;
     color: #4040d0;
     background-color: #4040d0;
 }
@@ -899,7 +899,7 @@ ul {
 @media (max-width: 720px) {
 
     .header {
-        padding: 1rem 3%;
+        padding: 1rem 5%;
     }
 
     .suporte article {

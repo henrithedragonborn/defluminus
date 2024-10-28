@@ -897,7 +897,14 @@ ul {
 }
 
 @media (max-width: 720px) {
-
+    ::-webkit-scrollbar {
+        width: 0;
+        background-color: #e0e0e0;
+    }
+    ::-webkit-scrollbar-thumb {
+        width: 0;
+        background-color: #e0e0e0;
+    }
     .header {
         padding: 1rem 5%;
     }

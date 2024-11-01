@@ -37,6 +37,7 @@ body {
     background-color: var(--bg-color);
     display: flex;
     flex-direction: column;
+    width: 100vw;
     overflow-x: hidden;
     height: auto;
     font-family: var(--common);
@@ -375,7 +376,7 @@ ul {
 }
 
 .hero aside .draw {
-    width: 100%;
+    width: 85%;
     height: auto;
 }
 
@@ -1046,9 +1047,9 @@ ul {
     
     .card span>a {
         font-weight: 400;
-        font-size: 1em;
+        font-size: 0.9em;
         border: 1px solid transparent;
-        padding: 0.1rem 0.3rem;
+        padding: 0.05rem 0.15rem;
         border-radius: 2px;
         background-color: #4040d0;
     }

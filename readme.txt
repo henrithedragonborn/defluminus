@@ -1,6 +1,4 @@
 Faltando:
-
-    - Cards de algebraintro.html
     - Class Active (sidebar) nas páginas algebraun1,un2,un3,quizz.html
     - Página de Login e Sign up
     - Página de Suporte
